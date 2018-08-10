@@ -1,12 +1,12 @@
 {
-  "name": "team",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "team",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Matimu Ignatius",
   "license": "ISC",
   "dependencies": {
     "eslint": "^5.3.0",
