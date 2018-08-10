@@ -23,3 +23,4 @@ score:{
 }
 });
 module.exports = mongoose.model('GameSchedule', GameSchedule);
+
